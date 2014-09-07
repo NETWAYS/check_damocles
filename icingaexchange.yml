@@ -1,4 +1,4 @@
-name: check_damocles.pl
+name: check_damocles
 description: "file:///README.md"
 url: "https://www.netways.org/projects/plugins"
 tags: ~
